@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: benbinos projects
+email: benjsear9542@granitesd.org
+developer: benjamin / developer
+developer_description: > # this means to ignore newlines until "baseurl:"
+  This page was developed by a High-School student.  I used a Jekyll base to build this.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "main_page.github.io" # the base hostname & protocol for your site
+twitter_username: flippinsweetben
+github_username:  thegreatbenbino
+
+# Build settings
+markdown: kramdown
